@@ -36,4 +36,6 @@ def pure_replicate(molecule, replicate=267, length=4):
     return solvated
 
 
+def get_cutoff(molecule):
 
+    pass
